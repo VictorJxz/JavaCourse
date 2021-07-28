@@ -1,9 +1,7 @@
 package org.svrlab.repository_poo.repository;
 
 import org.svrlab.repository_poo.model.BaseEntity;
-import org.svrlab.repository_poo.repository.exeception.DuplicateRecordAccessDataException;
-import org.svrlab.repository_poo.repository.exeception.ReadAccessDataException;
-import org.svrlab.repository_poo.repository.exeception.WritingAccessDataException;
+import org.svrlab.repository_poo.repository.exeception.*;
 
 import java.util.ArrayList;
 import java.util.List;

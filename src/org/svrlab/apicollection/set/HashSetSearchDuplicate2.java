@@ -1,4 +1,4 @@
-package org.svrlab.apicollection;
+package org.svrlab.apicollection.set;
 
 import java.util.HashSet;
 import java.util.Set;
