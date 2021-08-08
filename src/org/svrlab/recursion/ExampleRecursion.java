@@ -35,7 +35,7 @@ public class ExampleRecursion {
                 .addComponent( motherboard )
                 .addComponent( new Component("Teclado"))
                 .addComponent( new Component("Mouse"));
-        
+
         methodRecursiveJava8( pc, 0 )
                 .forEach( c -> System.out.println("\t".repeat( c.getLevel()) + c.getName()));
     }
