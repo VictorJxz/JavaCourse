@@ -5,7 +5,7 @@ abstract public class PizzaZoneAbstractFactory {
     public PizzaProduct orderPizza(String type) {
 
         PizzaProduct pizza = createPizza(type);
-        System.out.println("Making the pizza -> " + pizza.getName());
+        System.out.println("............  Making the pizza -> " + pizza.getName() + "...........");
         pizza.setUp();
         pizza.cook();
         pizza.cotOff();

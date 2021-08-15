@@ -43,7 +43,8 @@ public abstract class AbstractListRepository<T extends BaseEntity> implements In
             throw new WritingAccessDataException("Error inserting null object ");
         }
         if ( this.dataSource.contains(t)){
-            throw new DuplicateRecordAccessDataException("Error the object with the ID -> "+t.getId()+" exists in the repository ");
+            throw new DuplicateRecordAccessDataException("Error the object with the ID -> " +
+                    t.getId()+" exists in the repository ");
         }
         this.dataSource.add( t );
     }
