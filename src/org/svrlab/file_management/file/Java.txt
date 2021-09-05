@@ -1,0 +1,23 @@
+Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... Hello world! 
+-> writing the file... ...   PrintWriter  ... 
+-> writing the file... 
+Hello world! 
+-> writing the file... #PrintWriter
+-> writing the file... 
+Hello world! 
+-> writing the file... # %sPrintWriter
+-> writing the file... 
+Hello world! 
+-> writing the file... # Hello world! 
+-> writing the file... # PrintWriter-> writing the file... 
+Hello world! 
+-> writing the file... # PrintWriter-> writing the file... 
